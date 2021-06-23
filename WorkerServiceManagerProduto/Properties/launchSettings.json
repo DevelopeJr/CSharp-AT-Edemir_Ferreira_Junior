@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "WorkerServiceManagerProduto": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
